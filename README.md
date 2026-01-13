@@ -1,15 +1,21 @@
-## Sobre este repositório
+## 🐍Python Data Immersion - Alura (Aug 2025)
 
-Este projeto acompanha a **Imersão Dados com Python**, evento online e gratuito promovido pela Alura entre **5 a 8 de agosto de 2025**. Durante quatro dias, desenvolvemos habilidades essenciais em Python, limpeza e análise de dados com Pandas, e construímos um dashboard interativo com Streamlit — tudo com apoio de especialistas, acesso a grupo no Discord e certificado de participação.
+## About this Project
+This repository contains the results of an intensive 4-day Data Analysis program promoted by Alura. The goal was to develop end-to-end analytical skills, from raw data manipulation to the creation of interactive visualization tools.
 
-### Conteúdos abordados
-- Python básico para análise de dados
-- Limpeza e preparação de dados com Pandas
-- Combinação de datasets e exploração de insights
-- Construção de dashboard interativo com Streamlit
-- Masterclass introdutória e lives complementares
-- Comunidade exclusiva no Discord
-- Certificado de participação
+### Core Technical Skills Developed
+**Python for Data Science:** Basic syntax applied to analytical problem-solving.
+**Data Wrangling with Pandas:** Cleaning, transforming, and preparing complex datasets
+**Data Merging & Exploration:** Combining multiple data sources to uncover hidden business insights.
+**Dashboard Engineering with Streamlit:** Building a web-based interactive interface for data storytelling.
+**Reproducible Research:** Using Jupyter Notebooks to document analysis, assumptions, and findings.
 
-### Objetivo
-Hoje, este repositório reúne os notebooks, dashboards e anotações produzidos ao longo da imersão, servindo como referência pessoal e ponto de partida para novos aprendizados na área de dados com Python.
+### Project Goals
+The materials gathered here serve as a practical foundation for my transition into Data Science. They demonstrate my ability to:
+
+1. Translate business questions into Python code.
+2. Clean and structure data for reliable analysis.
+3. Communicate results through clear, interactive visuals.
+
+### Certification
+A certificate of participation was issued by Alura, validating the completion of all technical modules.
